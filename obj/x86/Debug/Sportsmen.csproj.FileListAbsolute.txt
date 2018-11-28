@@ -1,0 +1,45 @@
+E:\my projects\Sportsmen\Sportsmen\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\my projects\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.MyForm.resources
+E:\my projects\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.Properties.Resources.resources
+E:\my projects\Sportsmen\Sportsmen\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\my projects\Sportsmen\Sportsmen\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\my projects\Sportsmen\Sportsmen\bin\Debug\Sportsmen.exe
+E:\my projects\Sportsmen\Sportsmen\bin\Debug\Sportsmen.pdb
+E:\my projects\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.exe
+E:\my projects\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.pdb
+D:\3 Year\Sportsmen\Sportsmen\Sportsmen\bin\Debug\Sportsmen.exe
+D:\3 Year\Sportsmen\Sportsmen\Sportsmen\bin\Debug\Sportsmen.pdb
+D:\3 Year\Sportsmen\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.csprojAssemblyReference.cache
+D:\3 Year\Sportsmen\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.MyForm.resources
+D:\3 Year\Sportsmen\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.Properties.Resources.resources
+D:\3 Year\Sportsmen\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.csproj.GenerateResource.cache
+D:\3 Year\Sportsmen\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.csproj.CoreCompileInputs.cache
+D:\3 Year\Sportsmen\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.exe
+D:\3 Year\Sportsmen\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.pdb
+C:\Users\User\Desktop\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.exe
+C:\Users\User\Desktop\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.pdb
+C:\Users\User\Desktop\Sportsmen\Sportsmen\bin\Debug\Sportsmen.exe
+C:\Users\User\Desktop\Sportsmen\Sportsmen\bin\Debug\Sportsmen.pdb
+C:\Users\User\Desktop\Sportsmen\Sportsmen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.MyForm.resources
+C:\Users\User\Desktop\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.Properties.Resources.resources
+C:\Users\User\Desktop\Sportsmen\Sportsmen\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Sportsmen\Sportsmen\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\3 Year\Sportsmen\Sportsmen\bin\Debug\Sportsmen.exe
+D:\3 Year\Sportsmen\Sportsmen\bin\Debug\Sportsmen.pdb
+D:\3 Year\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.csprojAssemblyReference.cache
+D:\3 Year\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.MyForm.resources
+D:\3 Year\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.Properties.Resources.resources
+D:\3 Year\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.csproj.GenerateResource.cache
+D:\3 Year\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.csproj.CoreCompileInputs.cache
+D:\3 Year\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.exe
+D:\3 Year\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.pdb
+D:\4 year\SportsmenV3\Sportsmen\Sportsmen\bin\Debug\Sportsmen.exe
+D:\4 year\SportsmenV3\Sportsmen\Sportsmen\bin\Debug\Sportsmen.pdb
+D:\4 year\SportsmenV3\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.csprojAssemblyReference.cache
+D:\4 year\SportsmenV3\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.MyForm.resources
+D:\4 year\SportsmenV3\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.Properties.Resources.resources
+D:\4 year\SportsmenV3\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.csproj.GenerateResource.cache
+D:\4 year\SportsmenV3\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.csproj.CoreCompileInputs.cache
+D:\4 year\SportsmenV3\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.exe
+D:\4 year\SportsmenV3\Sportsmen\Sportsmen\obj\x86\Debug\Sportsmen.pdb
